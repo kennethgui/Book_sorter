@@ -1,11 +1,4 @@
 /*
-    Name: Kenneth Guillont
-    Class: CSCI335
-    Professor: Justin Tojeira
-    date: 03/01/2024
-    
-    Project 1
-
     Implimentation of MoveAll class. Stores books in a vector of Books called "catalog", 
     and allows you to move Books from "catalog" to another vector of Books called "cart"
 */
