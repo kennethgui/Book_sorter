@@ -1,13 +1,6 @@
 /*
-    Name: Kenneth Guillont
-    Class: CSCI335
-    Professor: Justin Tojeira
-    date: 03/01/2024
-    
-    Project 1
-
-    Implimentation of Book class. Reads Book objects in from a file, 
-    and prints book description in given format.
+    Implementation of Book class. Reads Book objects from a file, 
+    and prints book descriptions in a given format.
 */
 
 
